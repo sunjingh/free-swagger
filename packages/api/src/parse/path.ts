@@ -1,5 +1,5 @@
 import { OpenAPIV2 } from 'openapi-types'
-import { parsePath, Method } from 'free-swagger-core'
+import { parsePath, Method } from 'free-swagger-core-next'
 import { hasChinese } from '../utils'
 import chalk from 'chalk'
 import { memoize, flattenDeep, groupBy } from 'lodash'

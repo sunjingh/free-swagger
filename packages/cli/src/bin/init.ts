@@ -6,7 +6,7 @@ import { rc } from '../default/rc'
 import mockQuestion from '../inquirer/questions/mock'
 import apiQuestion, { chooseApi } from '../inquirer/questions/api'
 import { source } from '../inquirer/questions/core'
-import freeSwagger, { mock } from 'free-swagger'
+import freeSwagger, { mock } from 'free-swagger-next'
 import { pick } from 'lodash'
 import { prompt } from '../inquirer'
 

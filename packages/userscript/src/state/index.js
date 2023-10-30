@@ -8,7 +8,7 @@ import {
   tsTemplate,
   compileInterfaces,
   compileJsDocTypedefs
-} from "free-swagger-core";
+} from "free-swagger-core-next";
 import { retry } from "@/utils";
 import { option, generate } from "json-schema-faker";
 

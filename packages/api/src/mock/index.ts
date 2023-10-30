@@ -1,5 +1,5 @@
 import { OpenAPIV2 } from 'openapi-types'
-import { Method } from 'free-swagger-core'
+import { Method } from 'free-swagger-core-next'
 import { pascalCase, hasChinese, MockConfig } from '../utils'
 import { methods } from '../parse/path'
 import path from 'path'

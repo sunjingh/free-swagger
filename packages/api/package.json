@@ -38,7 +38,7 @@
 		"camelcase": "^5.3.1",
 		"chalk": "^3.0.0",
 		"commander": "^4.1.0",
-		"free-swagger-core": "^5.4.3",
+		"free-swagger-core-next-next": "^5.4.3",
 		"fs-extra": "^8.1.0",
 		"inquirer": "^7.0.1",
 		"js-yaml": "^3.13.1",
@@ -63,5 +63,5 @@
 		"ts-jest": "^26.1.0",
 		"typescript": "^3.7.4"
 	},
-	"gitHead": "8a5fa180f3906255a37089bc4b8aed69511819b7"
+	"gitHead": "734f80b1d7a15367b7ba833d2f583f6db5c4d98f"
 }

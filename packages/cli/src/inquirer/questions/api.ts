@@ -1,9 +1,9 @@
 import chalk from 'chalk'
 import { lang, source, templateFunction, typeOnly } from './core'
 import { rc, RcConfig } from '../../default/rc'
-import { ParsedPathsObject } from 'free-swagger'
+import { ParsedPathsObject } from 'free-swagger-next'
 import { prompt } from '../index'
-import { isUrl } from 'free-swagger'
+import { isUrl } from 'free-swagger-next'
 
 const createChoices = (
   paths: ParsedPathsObject
