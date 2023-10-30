@@ -1,6 +1,6 @@
 {
 	"name": "free-swagger-cli-next",
-	"version": "5.4.5",
+	"version": "5.4.6",
 	"description": "swagger to front-end code",
 	"keywords": [
 		"swagger",
@@ -37,8 +37,8 @@
 		"camelcase": "^5.3.1",
 		"chalk": "^3.0.0",
 		"commander": "^4.1.0",
-		"free-swagger-next": "^5.4.4",
-		"free-swagger-core-next": "^5.4.3",
+		"free-swagger-core-next": "^5.4.5",
+		"free-swagger-next": "^5.4.6",
 		"fs-extra": "^8.1.0",
 		"inquirer": "^7.0.1",
 		"js-yaml": "^3.13.1",
