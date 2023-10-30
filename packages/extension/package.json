@@ -1,5 +1,5 @@
 {
-  "name": "free-swagger-extension",
+  "name": "free-swagger-extension-next",
   "version": "5.4.3",
   "description": "chrome extension for free-swagger",
   "author": "zhouhaolei <zhouhaolei@bytedance.com>",
@@ -50,5 +50,5 @@
     "type": "git",
     "url": "git+https://github.com/yeyan1996/free-swagger.git"
   },
-  "gitHead": "74d8d330597c53940722df356254883634bf53f8"
+  "gitHead": "8a5fa180f3906255a37089bc4b8aed69511819b7"
 }

@@ -1,5 +1,5 @@
 {
-	"name": "free-swagger",
+	"name": "free-swagger-next",
 	"version": "5.4.4",
 	"description": "swagger to frontend code",
 	"keywords": [
@@ -63,5 +63,5 @@
 		"ts-jest": "^26.1.0",
 		"typescript": "^3.7.4"
 	},
-	"gitHead": "f1d7873500734effd34cecd197f504940c7f2114"
+	"gitHead": "8a5fa180f3906255a37089bc4b8aed69511819b7"
 }
