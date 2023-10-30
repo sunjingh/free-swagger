@@ -1,5 +1,5 @@
 {
-	"name": "free-swagger-next",
+	"name": "free-swagger-puls",
 	"version": "5.4.6",
 	"description": "swagger to frontend code",
 	"keywords": [
@@ -38,7 +38,7 @@
 		"camelcase": "^5.3.1",
 		"chalk": "^3.0.0",
 		"commander": "^4.1.0",
-		"free-swagger-core-next-next": "^5.4.3",
+		"free-swagger-core-puls": "^5.4.3",
 		"fs-extra": "^8.1.0",
 		"inquirer": "^7.0.1",
 		"js-yaml": "^3.13.1",
@@ -63,5 +63,5 @@
 		"ts-jest": "^26.1.0",
 		"typescript": "^3.7.4"
 	},
-	"gitHead": "734f80b1d7a15367b7ba833d2f583f6db5c4d98f"
+	"gitHead": "f73c7170a2066502ebaab675b7e42f52381c9333"
 }

@@ -13,11 +13,11 @@ import {
   compilePath,
   createDefaultHeadCode,
   formatCode,
-} from 'free-swagger-core-next'
+} from 'free-swagger-core-puls'
 import { INTERFACE_PATH, JSDOC_PATH } from './default'
 import { mock } from './mock'
 
-// 使用 free-swagger/free-swagger-cli 时传入 free-swagger-core-next 的部分参数固定
+// 使用 free-swagger/free-swagger-cli 时传入 free-swagger-core-puls 的部分参数固定
 const DEFAULT_CORE_PARAMS = {
   interface: false,
   recursive: false,

@@ -1,5 +1,5 @@
 {
-  "name": "free-swagger-core-next",
+  "name": "free-swagger-core-puls",
   "version": "5.4.5",
   "homepage": "https://github.com/yeyan1996/free-swagger#readme",
   "repository": {
@@ -51,5 +51,5 @@
     "ts-jest": "^26.1.0",
     "typescript": "^3.7.4"
   },
-  "gitHead": "734f80b1d7a15367b7ba833d2f583f6db5c4d98f"
+  "gitHead": "f73c7170a2066502ebaab675b7e42f52381c9333"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "free-swagger-extension-next",
+  "name": "free-swagger-extension-puls",
   "version": "5.4.5",
   "description": "chrome extension for free-swagger",
   "author": "zhouhaolei <zhouhaolei@bytedance.com>",
@@ -50,5 +50,5 @@
     "type": "git",
     "url": "git+https://github.com/yeyan1996/free-swagger.git"
   },
-  "gitHead": "734f80b1d7a15367b7ba833d2f583f6db5c4d98f"
+  "gitHead": "f73c7170a2066502ebaab675b7e42f52381c9333"
 }

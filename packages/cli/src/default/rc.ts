@@ -4,7 +4,7 @@ import fse from 'fs-extra'
 import prettier from 'prettier'
 import { pick, mergeWith } from 'lodash'
 import { EOL } from 'os'
-import { jsTemplate, tsTemplate } from 'free-swagger-core-next'
+import { jsTemplate, tsTemplate } from 'free-swagger-core-puls'
 import {
   DEFAULT_CUSTOM_IMPORT_CODE_JS,
   DEFAULT_CUSTOM_IMPORT_CODE_TS,
@@ -12,7 +12,7 @@ import {
   MockConfig,
   ApiConfig,
   getDefaultParams,
-} from 'free-swagger-next'
+} from 'free-swagger-puls'
 import { execSync } from 'child_process'
 import camelcase from 'camelcase'
 

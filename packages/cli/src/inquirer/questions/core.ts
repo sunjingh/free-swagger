@@ -1,5 +1,5 @@
 import chalk from 'chalk'
-import { isUrl, checkAndNormalizePath } from 'free-swagger-next'
+import { isUrl, checkAndNormalizePath } from 'free-swagger-puls'
 import { rc } from '../../default/rc'
 
 export const source = {

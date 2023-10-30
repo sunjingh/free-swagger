@@ -1,5 +1,5 @@
 import { OpenAPIV2 } from 'openapi-types'
-import { CoreConfig } from 'free-swagger-core-next'
+import { CoreConfig } from 'free-swagger-core-puls'
 import fse from 'fs-extra'
 import camelcase from 'camelcase'
 import path from 'path'

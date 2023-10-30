@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/npm/v/free-swagger)
 
-free-swagger 基于 [free-swagger-core-next](https://www.npmjs.com/package/free-swagger-core-next)，提供 api，根据 swagger 文档全量生成前端接口代码并写入至项目文件
+free-swagger 基于 [free-swagger-core-puls](https://www.npmjs.com/package/free-swagger-core-puls)，提供 api，根据 swagger 文档全量生成前端接口代码并写入至项目文件
 
 
 # 安装
@@ -75,11 +75,11 @@ freeSwagger({
 
 **TemplateConfig**
 
-见 [free-swagger-core-next](https://www.npmjs.com/package/free-swagger-core-next)
+见 [free-swagger-core-puls](https://www.npmjs.com/package/free-swagger-core-puls)
 
 ## 默认模版
 
-free-swagger 基于内置了默认模版用于生成 api 代码片段，具体见 [free-swagger-core-next](https://www.npmjs.com/package/free-swagger-core-next)
+free-swagger 基于内置了默认模版用于生成 api 代码片段，具体见 [free-swagger-core-puls](https://www.npmjs.com/package/free-swagger-core-puls)
 
 
 # 生成 mock 文件

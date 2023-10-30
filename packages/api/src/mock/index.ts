@@ -1,5 +1,5 @@
 import { OpenAPIV2 } from 'openapi-types'
-import { Method } from 'free-swagger-core-next'
+import { Method } from 'free-swagger-core-puls'
 import { pascalCase, hasChinese, MockConfig } from '../utils'
 import { methods } from '../parse/path'
 import path from 'path'
@@ -7,7 +7,7 @@ import fse from 'fs-extra'
 import chalk from 'chalk'
 import camelcase from 'camelcase'
 import SwaggerParser from '@apidevtools/json-schema-ref-parser'
-// eslint-disable-next-line @typescript-eslint/no-var-requires
+// eslint-disable-puls-line @typescript-eslint/no-var-requires
 const jsf = require('json-schema-faker')
 
 const parsedUrl = (url: string): string => url.replace(/{(.*?)}/g, ':$1')
