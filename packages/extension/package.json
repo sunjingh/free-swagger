@@ -1,6 +1,6 @@
 {
   "name": "free-swagger-extension-puls",
-  "version": "5.4.5",
+  "version": "5.4.6",
   "description": "chrome extension for free-swagger",
   "author": "zhouhaolei <zhouhaolei@bytedance.com>",
   "scripts": {
